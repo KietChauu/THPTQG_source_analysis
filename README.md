@@ -31,8 +31,12 @@ Project này dử dụng các kiến thức đã học trong môn [Phân tích d
 
 [data.ipynb](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/data.ipynb): nơi thao tác với dữ liệu.
 
-[thptqg_data_crawl.py](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/thptqg_data_crawl.py): file này dùng để crawl dữ liệu thô từ web về.
+[thptqg_data_crawl.py](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/thptqg_data_crawl.py): dùng để crawl dữ liệu thô từ web về.
 
 [BÁO CÁO CUỐI KÌ](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/B%C3%81O%20C%C3%81O%20CU%E1%BB%90I%20K%C3%8C.pdf): ghi lại những gì đã làm được.
 
-[FILE TÓM TẮT BÁO CÁO](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/FILE%20T%C3%93M%20T%E1%BA%AET%20B%C3%81O%20C%C3%81O.pdf): file này tóm tắt gọn lại chỉ trong 2 trang giấy về những gì đã làm.
+[FILE TÓM TẮT BÁO CÁO](https://github.com/dusgkiet/THPTQG_source_analysis/blob/main/FILE%20T%C3%93M%20T%E1%BA%AET%20B%C3%81O%20C%C3%81O.pdf): tóm tắt gọn lại chỉ trong 2 trang giấy về những gì đã làm.
+
+## Các thư viện sử dụng 
+
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
