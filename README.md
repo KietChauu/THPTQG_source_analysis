@@ -39,4 +39,4 @@ Project này dử dụng các kiến thức đã học trong môn [Phân tích d
 
 ## Các thư viện sử dụng 
 
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib-777BB4?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/stumpy-2C2D72?style=for-the-badge&logo=stumpystumpy&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn-654FF0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/stumpy-2C2D72?style=for-the-badge&logo=stumpystumpy&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib-777BB4?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn-654FF0?style=for-the-badge&logo=seaborn&logoColor=white"/>
